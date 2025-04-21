@@ -1,4 +1,9 @@
-<Card 
-  title="Dog Tracker App" 
-  description="Track your pups walks and treats!" 
-/>
+import React from "react";
+
+export function Projects() {
+  return (
+    <div>
+      <h2>🎨 My Doggie Designs!</h2>
+    </div>
+  );
+}
