@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dog-portfolio/static/css/main.006d4132.css",
+    "main.js": "/dog-portfolio/static/js/main.a6642706.js",
+    "static/js/453.53996609.chunk.js": "/dog-portfolio/static/js/453.53996609.chunk.js",
+    "index.html": "/dog-portfolio/index.html",
+    "main.006d4132.css.map": "/dog-portfolio/static/css/main.006d4132.css.map",
+    "main.a6642706.js.map": "/dog-portfolio/static/js/main.a6642706.js.map",
+    "453.53996609.chunk.js.map": "/dog-portfolio/static/js/453.53996609.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.006d4132.css",
+    "static/js/main.a6642706.js"
+  ]
+}
